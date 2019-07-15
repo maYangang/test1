@@ -1,1 +1,2 @@
-hello worldfwokpgjl;wjp;sldm,vc kl.,nwe sdgklcxv., mkwlsdcm, ::f
+hello world; 
+console.log(`Do what makes your soul shine.`)
